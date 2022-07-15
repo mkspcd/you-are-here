@@ -1,0 +1,13 @@
+{
+  "name": "you-are-here",
+  "version": "0.1.0",
+  "private": true,
+  "author": "mkspcd <mkspcd@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "14.0.1"
+  }
+}
